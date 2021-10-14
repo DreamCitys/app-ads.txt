@@ -1,1 +1,7 @@
-# app-ads.txt
+google.com, pub-6354112556091525, DIRECT, f088c47fec942fa0
+
+google.com, pub-7117884512964063, RESELLER
+
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+google.com, pub-9932765243585041, RESELLER
